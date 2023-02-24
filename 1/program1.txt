@@ -1,0 +1,29 @@
+//iki eded arasindaki tek ededlarin cemi 
+Console.WriteLine("Input positive number1:");
+int number1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Input positive number greater than greather than number1:");
+int number2 = int.Parse(Console.ReadLine());
+int result = 0;
+while (number1 <= number2)
+{
+    number1++;
+    if (number1 > number2)
+    {
+        Console.WriteLine("number2 must be greater than number1 ");
+        break;
+    }
+    else if (number1 < 0)
+    {
+        Console.WriteLine("enter positive number");
+        break;
+    }
+    else if (number1 % 2 == 0 && number2 % 2 == 0) continue;
+    result += number1;
+}
+Console.WriteLine(result);
+
+
+
+
+
+

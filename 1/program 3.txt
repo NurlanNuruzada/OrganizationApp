@@ -1,0 +1,18 @@
+decimal number = 78.232m;
+int tam = 0;
+for (int i = 1;number!>=1;i*=10)
+{
+    number/=10;
+    tam += 1;
+} 
+    Console.WriteLine("tam eded mertebesi:"+tam);
+for (int i = 1;number!<=1;i/=10)
+{
+    number*=10;
+    tam += 1;
+} 
+    Console.WriteLine("kesr eded mertebesi:"+tam);
+if (number == 0)
+{
+    Console.WriteLine("eded 0 dan ferqli olmalidir");
+}
