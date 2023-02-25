@@ -1,0 +1,15 @@
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\net6.0\Even Fibonacci numbers.exe
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\net6.0\Even Fibonacci numbers.deps.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\net6.0\Even Fibonacci numbers.runtimeconfig.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\net6.0\Even Fibonacci numbers.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\net6.0\Even Fibonacci numbers.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\refint\Even Fibonacci numbers.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\Even Fibonacci numbers.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\net6.0\ref\Even Fibonacci numbers.dll
