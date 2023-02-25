@@ -1,0 +1,15 @@
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\bin\Debug\net6.0\4 un quvveti olub olma-olmama.exe
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\bin\Debug\net6.0\4 un quvveti olub olma-olmama.deps.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\bin\Debug\net6.0\4 un quvveti olub olma-olmama.runtimeconfig.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\bin\Debug\net6.0\4 un quvveti olub olma-olmama.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\bin\Debug\net6.0\4 un quvveti olub olma-olmama.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\refint\4 un quvveti olub olma-olmama.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\4 un quvveti olub olma-olmama.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\4 un quvveti olub olma-olmama\4 un quvveti olub olma-olmama\obj\Debug\net6.0\ref\4 un quvveti olub olma-olmama.dll
