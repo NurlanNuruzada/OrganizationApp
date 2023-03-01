@@ -1,0 +1,15 @@
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\bin\Debug\net7.0\Hometask.exe
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\bin\Debug\net7.0\Hometask.deps.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\bin\Debug\net7.0\Hometask.runtimeconfig.json
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\bin\Debug\net7.0\Hometask.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\bin\Debug\net7.0\Hometask.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\refint\Hometask.dll
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.pdb
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\Hometask.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\ \Projects\Practice\Hometask\Hometask\obj\Debug\net7.0\ref\Hometask.dll

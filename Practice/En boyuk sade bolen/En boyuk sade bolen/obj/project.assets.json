@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\En boyuk sade bolen.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\En boyuk sade bolen.csproj",
       "projectName": "En boyuk sade bolen",
-      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\En boyuk sade bolen.csproj",
+      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\En boyuk sade bolen.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\obj\\",
+      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\En boyuk sade bolen\\En boyuk sade bolen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
