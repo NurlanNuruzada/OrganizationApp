@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\practicewithfunctions\\practice\\practice.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\practicewithfunctions\\practice\\practice.csproj",
       "projectName": "practice",
-      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\practicewithfunctions\\practice\\practice.csproj",
+      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\practicewithfunctions\\practice\\practice.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\Projects\\Practice\\practicewithfunctions\\practice\\obj\\",
+      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Practice\\practicewithfunctions\\practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
