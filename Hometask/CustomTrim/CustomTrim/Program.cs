@@ -8,10 +8,6 @@ string CusStringTrim(string word)
     string Result = "";
     for (int i = 0; i < word.Length; i++)
     {
-        for (int j = word.Length; j >=0 ; j--)
-        {
-
-        }
         TestWord += word[i];
         SpaceString += " ";
         if (TestWord == SpaceString)
