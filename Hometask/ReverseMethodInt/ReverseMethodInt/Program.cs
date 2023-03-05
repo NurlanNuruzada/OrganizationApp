@@ -6,9 +6,9 @@ void ReverseArray(int[] arr)
     while (i < j) // 0 dan arr-in Lenght-ne qeder yoxlayir
     {
         // yaridan sonra i nin indexsi j nin indexsine beraber olur onda gore half
-        var Half = arr[i];
+        var Changing = arr[i];
         arr[i] = arr[j];
-        arr[j] = Half;
+        arr[j] = Changing;
         i++; j--;
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Arrray join method\\ArrayJoinMethod\\ArrayJoinMethod\\ArrayJoinMethod.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ArrayJoinMethod\\ArrayJoinMethod\\ArrayJoinMethod.csproj",
       "projectName": "ArrayJoinMethod",
-      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Arrray join method\\ArrayJoinMethod\\ArrayJoinMethod\\ArrayJoinMethod.csproj",
+      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ArrayJoinMethod\\ArrayJoinMethod\\ArrayJoinMethod.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Arrray join method\\ArrayJoinMethod\\ArrayJoinMethod\\obj\\",
+      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ArrayJoinMethod\\ArrayJoinMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,3 +13,18 @@ C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\Arrray join method\ArrayJoinMetho
 C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\Arrray join method\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.pdb
 C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\Arrray join method\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.genruntimeconfig.cache
 C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\Arrray join method\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ref\ArrayJoinMethod.dll
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\bin\Debug\net7.0\ArrayJoinMethod.exe
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\bin\Debug\net7.0\ArrayJoinMethod.deps.json
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\bin\Debug\net7.0\ArrayJoinMethod.runtimeconfig.json
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\bin\Debug\net7.0\ArrayJoinMethod.dll
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\bin\Debug\net7.0\ArrayJoinMethod.pdb
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.dll
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\refint\ArrayJoinMethod.dll
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.pdb
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ArrayJoinMethod.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\ \MyProjects\Hometask\ArrayJoinMethod\ArrayJoinMethod\obj\Debug\net7.0\ref\ArrayJoinMethod.dll

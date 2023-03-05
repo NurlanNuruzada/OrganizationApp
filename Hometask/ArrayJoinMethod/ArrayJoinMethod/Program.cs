@@ -12,5 +12,5 @@ string CustomJoin(int [] arr, string separator)
     return result+=arr[arr.Length-1];
 }
 // TEST UCUN YAZDIM ASAGINI
-Console.WriteLine( CustomJoin(new int[] { 1, 2, 3, 433, 5, 6, 7, 8 },"--"));
+Console.WriteLine( CustomJoin(new int[] { 1, 2, 3, 433, 5, 6, 7, + 8 },"--"));
 

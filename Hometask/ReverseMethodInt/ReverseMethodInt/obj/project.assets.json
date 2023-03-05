@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Hometask Array Reverse Method\\ReverseMethodInt\\ReverseMethodInt\\ReverseMethodInt.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ReverseMethodInt\\ReverseMethodInt\\ReverseMethodInt.csproj",
       "projectName": "ReverseMethodInt",
-      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Hometask Array Reverse Method\\ReverseMethodInt\\ReverseMethodInt\\ReverseMethodInt.csproj",
+      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ReverseMethodInt\\ReverseMethodInt\\ReverseMethodInt.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\Hometask Array Reverse Method\\ReverseMethodInt\\ReverseMethodInt\\obj\\",
+      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\MyProjects\\Hometask\\ReverseMethodInt\\ReverseMethodInt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
