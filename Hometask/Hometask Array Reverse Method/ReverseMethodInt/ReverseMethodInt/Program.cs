@@ -12,6 +12,7 @@ void ReverseArray(int[] arr)
         i++; j--;
     }
 }
+//yoxlamaq ucun yazmisam
 ReverseArray(arr);
 foreach (int item in arr)
 {
