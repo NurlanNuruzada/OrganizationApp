@@ -1,0 +1,12 @@
+C:\Users\Nurlan\source\repos\Person\Human.Services\bin\Debug\net7.0\Utilities.deps.json
+C:\Users\Nurlan\source\repos\Person\Human.Services\bin\Debug\net7.0\Utilities.dll
+C:\Users\Nurlan\source\repos\Person\Human.Services\bin\Debug\net7.0\Utilities.pdb
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.dll
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\refint\Utilities.dll
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\Utilities.pdb
+C:\Users\Nurlan\source\repos\Person\Human.Services\obj\Debug\net7.0\ref\Utilities.dll
