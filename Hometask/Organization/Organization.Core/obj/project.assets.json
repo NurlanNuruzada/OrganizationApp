@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\ \\NewProject\\Hometask\\Organization\\Organization.Core\\Organization.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Nurlan\\Desktop\\New folder\\MyProjects\\Hometask\\Organization\\Organization.Core\\Organization.Core.csproj",
       "projectName": "Organization.Core",
-      "projectPath": "C:\\Users\\Nurlan\\Desktop\\ \\NewProject\\Hometask\\Organization\\Organization.Core\\Organization.Core.csproj",
+      "projectPath": "C:\\Users\\Nurlan\\Desktop\\New folder\\MyProjects\\Hometask\\Organization\\Organization.Core\\Organization.Core.csproj",
       "packagesPath": "C:\\Users\\Nurlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nurlan\\Desktop\\ \\NewProject\\Hometask\\Organization\\Organization.Core\\obj\\",
+      "outputPath": "C:\\Users\\Nurlan\\Desktop\\New folder\\MyProjects\\Hometask\\Organization\\Organization.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nurlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -668,6 +668,22 @@ main:
                      Console.WriteLine("Department limit Cann't Be Null!");
                     goto NewDepLimit;
                 }
+                    try
+                    {
+                        PosParse(DepartmnetNewLimit);
+                    }
+                    catch (NullParameterException exc)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine(exc.Message);
+                        goto NewDepLimit;
+                    }
+                    catch (Exception exc)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine(exc.Message);
+                        goto NewDepLimit;
+                    }
                 try
                 {
                     departmentService.Updade(DepartmnetOldName, DepartmnetNewName, PosParse(DepartmnetNewLimit));
