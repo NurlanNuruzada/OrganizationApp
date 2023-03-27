@@ -709,6 +709,11 @@ main:
                     Console.WriteLine(ex.Message);
                     goto NewDepLimit;
                 }
+                catch (DublicatedNameException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    goto NewDepartment;
+                }
                 catch (Exception ex)
                 {
                     goto main;

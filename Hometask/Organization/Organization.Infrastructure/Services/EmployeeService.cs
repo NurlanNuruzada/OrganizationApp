@@ -119,8 +119,7 @@ public class EmployeeService : Employee
         }
         if (!isExsist)
         {
-            throw new NotFoundException("Employee " +
-                "Not Found!");
+            throw new NotFoundException("Employee " +"Not Found!");
         }
     }
     public void ListEmployeesByDepartmentName(string name)

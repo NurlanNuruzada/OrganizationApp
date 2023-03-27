@@ -115,11 +115,25 @@ public class DepartmentService : CompanyService
     public void Updade(string OldName, string NewName, int NewLimit)
     {
         bool Found = false;
+        bool IsExist = false;
         int FireEmploye = 0;
         if (OldName == null || NewName == null || NewLimit == null)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             throw new NullParameterException("Input  Cann't Be Null!");
+        }
+        for (int k = 0; k < index_counter; k++)
+        {
+            if (AppDbContext.Departments[k].Name.ToUpper() == NewName.ToUpper())
+            {
+                IsExist = true;
+                break;
+            }
+        }
+        if (IsExist)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            throw new DublicatedNameException("This Name Already Exist!");
         }
         for (int i = 0; i < index_counter; i++)
         {
