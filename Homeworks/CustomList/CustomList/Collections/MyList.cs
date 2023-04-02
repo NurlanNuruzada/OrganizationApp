@@ -127,7 +127,7 @@ public sealed class MyList<T>:IEnumerable<T>
     {
         for (int i = 0; i < Count; i++)
         {
-            if (EqualityComparer<T>.Default.Equals(array[i], item))
+            if (Equals(array[i], item))
             {
                 return i;
             }
@@ -176,22 +176,15 @@ public sealed class MyList<T>:IEnumerable<T>
 
     public void Reverse()
     {
-        int i = 0;
-        int j = Count - 1;
-
-        while (i < j)
-        {
-            T temp = array[i];
-            array[i] = array[j];
-            array[j] = temp;
-
-            i++;
-            j--;
-        }
+        Array.Reverse(array);
     }
 
-    public void Sort()
+    public void Sort(Comparison<T> comparison)
     {
-        Array.Sort(array, 0, Count);
+        if (comparison == null)
+        {
+            throw new ArgumentNullException();
+        }
+        Array.Sort(array, 0, Count, Comparer<T>.Create(comparison));
     }
 }
