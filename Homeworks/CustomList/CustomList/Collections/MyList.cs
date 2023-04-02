@@ -178,13 +178,8 @@ public sealed class MyList<T>:IEnumerable<T>
     {
         Array.Reverse(array);
     }
-
-    public void Sort(Comparison<T> comparison)
+    public void Sort()
     {
-        if (comparison == null)
-        {
-            throw new ArgumentNullException();
-        }
-        Array.Sort(array, 0, Count, Comparer<T>.Create(comparison));
+        Array.Sort(array, 0, Count);
     }
 }
