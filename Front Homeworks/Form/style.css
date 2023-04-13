@@ -4,11 +4,19 @@
     padding: 0;
 
 }
-
+input{
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: rgb(187, 187, 187);
+    padding: 2px 5px;
+}
 blockquote {
     margin: 15px 20px;
 }
-
+textarea{
+    height: 120px;
+    width: 255px;
+}
 legend {
     font-weight: bolder;
     font-size: 12px;
@@ -22,12 +30,11 @@ legend {
 
 .form {
     margin-left: 5px;
-    font-size: 12px;
+    font-size: 13px;
 }
-
 fieldset {
     margin-top: 20px;
-    margin-right: 500px;
+    margin-right: 400px;
 }
 
 .button {
@@ -48,7 +55,6 @@ main {
 .Article {
     font-size: 15px;
 }
-
 table,
 th,
 td {
