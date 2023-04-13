@@ -1,0 +1,20 @@
+table{
+    color: rgb(53, 81, 97);
+    border: 1px solid;
+    border-color: rgb(123, 76, 36);
+    border-collapse:collapse; 
+}
+th {
+    border: 1px dotted;
+    border-color: orange;
+    padding: 14px 30px;
+}
+td{
+    color:rgb(13,58,102);
+    padding: 20px;
+    border: 1px dashed;
+    border-color: black;
+}
+.blue{
+    background-color:rgb(153,200,201);
+}
