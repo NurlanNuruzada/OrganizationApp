@@ -20,17 +20,17 @@ body .header{
     font-weight: 600;
     color: rgb(255,120,0);
 }
+.news p[data-date]{
+    font-size: small;
+    margin-top: 15px;
+    opacity: 0.8;
+    font-weight: 300;
+}
 .news p.titles{
     font-weight: 550;
     font-size: 16px;
     margin-bottom: 15px;
     margin-top: 10px;
-}
-.news p.date{
-    font-size: small;
-    margin-top: 15px    ;
-    opacity: 0.8;
-    font-weight: 300;
 }
 .news p.message{
     font-size: 13px;
