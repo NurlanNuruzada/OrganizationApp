@@ -39,3 +39,6 @@ body .header{
 .news:hover{
     background-color:  rgb(255,110,0);
 }
+div .test ~ p{
+    color: brown;
+}
