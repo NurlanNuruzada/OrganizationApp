@@ -8,7 +8,7 @@ body{
     color: white;
     font-family:'Poppins', sans-serif; ;
 }
-.news {
+body div.news {
     padding: 20px 30px;
     margin: 10px 20px;
     background-color: rgb(15, 15, 15);
@@ -20,19 +20,19 @@ body .header{
     font-weight: 600;
     color: rgb(255,120,0);
 }
-.news .titles{
+.news p.titles{
     font-weight: 550;
     font-size: 16px;
     margin-bottom: 15px;
     margin-top: 10px;
 }
-.news .date{
+.news p.date{
     font-size: small;
     margin-top: 15px    ;
     opacity: 0.8;
     font-weight: 300;
 }
-.news .message{
+.news p.message{
     font-size: 13px;
     font-weight: 300;
 }
